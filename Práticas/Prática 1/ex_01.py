@@ -24,7 +24,7 @@ testes = [
     "bba",
     "ababa",
     "baaaaaaaaba",
-    "baaaaaaaabaaaaa"
+    "baaaaaaaabaaaaa",
     "baaaaaaaabb"
 ]
 
